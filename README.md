@@ -21,11 +21,11 @@
 ```js
 const emanoel = {
   nome: "Emanoel De Jesus Barbosa Santos",
-  apelido: "Noel",
-  curso: "Análise e Desenvolvimento de Sistemas (ADS)👨‍🎓",
+  apelido: "Emanoel-de-Jesus",
+  curso: "Análise e Desenvolvimento de Sistemas (ADS)",
   status: "Aprendendo JavaScript 🚀",
-  foco: ["FrontEnd👨‍💻", "Uso de IA para ajuda em programação 🤖", "Boas práticas de código👾"],
-  motivacao: ""
+  foco: ["Lógica de Programação", "Web Dev", "Boas práticas de código"],
+  motivacao: "Transformar café ☕ em código limpo"
 };
 
 console.log(emanoel.status);
@@ -72,7 +72,7 @@ console.log(emanoel.status);
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/emanoel-de-jesus-barbosa-santos-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/barbosa._13/)
 [![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:Emanoeljesus610@gmail.com)
 
