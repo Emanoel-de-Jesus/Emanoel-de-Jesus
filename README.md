@@ -19,3 +19,6 @@ const profile = {
   interests: ["Clean Code", "Futuristic UI", "Open Source"],
   location: "Brasil"
 };
+<Technologies & Tools/>
+fetchData("github-analytics");
+<ConnectWithMe/>
