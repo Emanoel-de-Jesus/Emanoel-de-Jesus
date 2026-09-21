@@ -24,7 +24,7 @@ const emanoel = {
   apelido: "Emanoel-de-Jesus",
   curso: "Análise e Desenvolvimento de Sistemas (ADS)",
   status: "Aprendendo JavaScript 🚀",
-  foco: ["Lógica de Programação", "Boas práticas de código"],
+  foco: ["Lógica de Programação", "Foco em Frontend"],
   motivacao: "Transformar café ☕ em código limpo"
 };
 
