@@ -21,7 +21,7 @@
 ```js
 const emanoel = {
   nome: "Emanoel De Jesus Barbosa Santos",
-  apelido: "Emanoel-de-Jesus",
+  apelido: "Noel",
   curso: "Análise e Desenvolvimento de Sistemas (ADS)👨‍🎓",
   status: "Aprendendo JavaScript 🚀",
   foco: ["FrontEnd👨‍💻", "Uso de IA para ajuda em programação 🤖", "Boas práticas de código👾"],
