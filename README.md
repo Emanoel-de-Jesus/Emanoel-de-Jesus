@@ -19,7 +19,7 @@
 }
 </pre>
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia e resolução de problemas[cite: 3]. Atualmente, atuo na área de **Tecnologia Educacional e Suporte de TI**[cite: 3], gerenciando sistemas, infraestrutura e fluxos de dados, enquanto construo minha base sólida em desenvolvimento de software e programação.
+
 
 ---
 
