@@ -12,16 +12,12 @@
 
 {
   "nome": "Emanoel de Jesus Barbosa Santos",
-  "formacao": "Análise e Desenvolvimento de Sistemas (ADS) - Estácio",
+  "formacao": "Análise e Desenvolvimento de Sistemas (ADS)",
   "atuacao": "Tecnologia Educacional & Suporte Técnico (Prefeitura de Bertioga)",
   "foco_atual": ["Desenvolvimento Full Stack", "Lógica de Programação", "Automação & TI"],
   "certificacao": "Google Certified Educator Level 1"
 }
-</pre>
 
-Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia e resolução de problemas[cite: 3]. Atualmente, atuo na área de **Tecnologia Educacional e Suporte de TI**[cite: 3], gerenciando sistemas, infraestrutura e fluxos de dados, enquanto construo minha base sólida em desenvolvimento de software e programação.
-
----
 
 ### `>_` Stack & Arsenal Tecnológico
 
