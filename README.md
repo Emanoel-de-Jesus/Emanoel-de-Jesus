@@ -1,17 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41¢er=true&vCenter=true&width=820&lines=System.out.println(%22Hello%2C+World!+Wake+up%2C+Neo...%22)%3B;Emanoel+de+Jesus+%7C+Estudante+de+ADS;Desenvolvimento+Web+%E2%80%A2+Suporte+de+TI+%E2%80%A2+Automa%C3%A7%C3%A3o;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Java+%E2%80%A2+Python" alt="Terminal Matrix" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41¢er=true&vCenter=true&width=820&lines=System.out.println(%22Hello%2C+World!+Wake+up%2C+Neo...%22)%3B;Emanoel+de+Jesus+%7C+Estudante+de+ADS;Desenvolvimento+Web+%E2%80%A2+Suporte+de+TI+%E2%80%A2+Automa%C3%A7%C3%A3o;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Java+%E2%80%A2+Python](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41¢er=true&vCenter=true&width=820&lines=System.out.println(%22Hello%2C+World!+Wake+up%2C+Neo...%22)%3B;Emanoel+de+Jesus+%7C+Estudante+de+ADS;Desenvolvimento+Web+%E2%80%A2+Suporte+de+TI+%E2%80%A2+Automa%C3%A7%C3%A3o;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Java+%E2%80%A2+Python)" alt="Terminal Matrix" />
 </div>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF41&height=2§ion=header" width="100%" />
-</p>
+---
 
 ### `>_` $ whoami
 
-```bash
+<pre>
 ┌──(emanoel㉿matrix)-[~]
-└─\$ cat profile.json
+└─$ cat profile.json
 
 {
   "nome": "Emanoel de Jesus Barbosa Santos",
@@ -20,13 +17,59 @@
   "foco_atual": ["Desenvolvimento Full Stack", "Lógica de Programação", "Automação & TI"],
   "certificacao": "Google Certified Educator Level 1"
 }
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonado por tecnologia e resolução de problemas. Atualmente, atuo na área de Tecnologia Educacional e Suporte de TI, gerenciando sistemas, infraestrutura e fluxos de dados, enquanto construo minha base sólida em desenvolvimento de software e programação.   >_ Stack & Arsenal Tecnológico[✔] Tecnologias & Ferramentas que Domino[⚡] Carregando na Matrix (Estudando Atualmente)>_ Telemetria & Estatísticas do GitHub>_ Conexões & Contato[[[
+</pre>
+
+Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e apaixonado por tecnologia e resolução de problemas[cite: 3]. Atualmente, atuo na área de **Tecnologia Educacional e Suporte de TI**[cite: 3], gerenciando sistemas, infraestrutura e fluxos de dados, enquanto construo minha base sólida em desenvolvimento de software e programação.
+
 ---
 
-### Como atualizar agora em 30 segundos:
+### `>_` Stack & Arsenal Tecnológico
 
-1. Abra o seu repositório **`Emanoel-de-Jesus`** no GitHub e clique no ícone de lápis (**Edit file**) no `README.md`.
-2. Apague o conteúdo atual e cole o código acima usando o botão **Copiar** no topo da caixa.
-3. Clique na aba **Preview** (ao lado de *Edit*) para conferir o visual renderizado e clique no botão verde **Commit changes** para salvar.
+#### `[✔] Tecnologias & Ferramentas que Domino`
+<p align="left">
+  <img src="[https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)" alt="HTML5"/>
+  <img src="[https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)" alt="CSS3"/>
+  <img src="[https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)" alt="JavaScript"/>
+  <img src="[https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41)" alt="Git"/>
+  <img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)" alt="GitHub"/>
+  <img src="[https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41](https://img.shields.io/badge/L%C3%B3gica_de_Programa%C3%A7%C3%A3o-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF41)" alt="Lógica"/>
+  <img src="[https://img.shields.io/badge/Google_Workspace-0D1117?style=for-the-badge&logo=google&logoColor=00FF41](https://img.shields.io/badge/Google_Workspace-0D1117?style=for-the-badge&logo=google&logoColor=00FF41)" alt="Google Workspace"/>
+  <img src="[https://img.shields.io/badge/Claude_AI-0D1117?style=for-the-badge&logo=anthropic&logoColor=00FF41](https://img.shields.io/badge/Claude_AI-0D1117?style=for-the-badge&logo=anthropic&logoColor=00FF41)" alt="Claude AI"/>
+</p>
 
-*(Dica extra: se quiser incluir o botão do seu LinkedIn na última seção, basta me mandar o link dele que eu já te devolvo a linha pronta para colar).*
+#### `[⚡] Carregando na Matrix (Estudando Atualmente)`
+<p align="left">
+  <img src="[https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)" alt="Java"/>
+  <img src="[https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)" alt="Python"/>
+</p>
+
+---
+
+### `>_` Telemetria & Estatísticas do GitHub
+
+<div align="center">
+  <img height="175em" src="[https://github-readme-stats.vercel.app/api?username=Emanoel-de-Jesus&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=Emanoel-de-Jesus&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117)"/>
+  <img height="175em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel-de-Jesus&layout=compact&langs_count=6&theme=matrix&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel-de-Jesus&layout=compact&langs_count=6&theme=matrix&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117)"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Emanoel-de-Jesus&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=false&border_color=00FF41](https://github-readme-activity-graph.vercel.app/graph?username=Emanoel-de-Jesus&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=false&border_color=00FF41)" alt="Gráfico de Contribuições"/>
+</div>
+
+---
+
+### `>_` Conexões & Contato
+
+<p align="left">
+  <a href="mailto:emanoeljesus610@gmail.com">
+    <img src="[https://img.shields.io/badge/Gmail-emanoeljesus610%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117](https://img.shields.io/badge/Gmail-emanoeljesus610%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)" alt="Email" />
+  </a>
+  <a href="[https://github.com/Emanoel-de-Jesus?tab=followers](https://github.com/Emanoel-de-Jesus?tab=followers)" target="_blank">
+    <img src="[https://img.shields.io/github/followers/Emanoel-de-Jesus?label=Seguidores&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41](https://img.shields.io/github/followers/Emanoel-de-Jesus?label=Seguidores&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41)" alt="Seguidores" />
+  </a>
+  <a href="[https://github.com/Emanoel-de-Jesus?tab=repositories](https://github.com/Emanoel-de-Jesus?tab=repositories)" target="_blank">
+    <img src="[https://img.shields.io/github/stars/Emanoel-de-Jesus?label=Estrelas&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41](https://img.shields.io/github/stars/Emanoel-de-Jesus?label=Estrelas&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github&logoColor=00FF41)" alt="Estrelas" />
+  </a>
+</p>
