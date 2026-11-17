@@ -1,25 +1,18 @@
-<div align="center">
+<!-- BANNER DE TERMINAL ANIMADO (EFEITO DIGITANDO) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00FF41¢er=true&vCenter=true&width=750&lines=System.out.println(%22Wake+up%2C+Neo...%22)%3B;Bem-vindo+ao+sistema+de+Emanoel+de+Jesus;Desenvolvedor+Full+Stack+%7C+Entusiasta+de+Tecnologia;Explorando+o+c%C3%B3digo-fonte+da+Matrix..." alt="Typing SVG" />
+</p>
 
-# Emanoel de Jesus
+<!-- LINHA DIVISÓRIA NEON -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Estudante de ADS**
+### `>_` $ whoami
 
-Aprendendo JavaScript, Java e Python
+```bash
+┌──(emanoel㉿matrix)-[~]
+└─\$ cat profile.txt
 
-📍 Bertioga, SP
-
-</div>
-
----
-
-### Sobre mim
-
-Gosto de resolver problemas com lógica e automatizar o que dá trabalho fazer na mão. Hoje trabalho com organização de dados e contas no setor público, e estudo desenvolvimento de software na faculdade.
-
-### Estou estudando
-
-`JavaScript` `Java` `Python` `Git` `HTML5`
-
-### Contato
-
-📧 emanoeljesus610@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/emanoel-de-jesus-barbosa-santos-)
+> Nome: Emanoel de Jesus
+> Status: Online & Codando...
+> Foco: Desenvolvimento de Software, Arquitetura & Inovação
+> Missão: Transformar café e linhas de código em soluções reais.
