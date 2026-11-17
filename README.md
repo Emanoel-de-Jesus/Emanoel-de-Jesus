@@ -1,4 +1,4 @@
-# Olá, eu sou o Emanoel 👋
+# <div> Olá, eu sou o Emanoel 👋 </div>
 
 **Estudante de Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento de software, lógica de programação e versionamento de código. Gosto de resolver problemas, otimizar fluxos e aprender novas linguagens.
 
