@@ -7,8 +7,8 @@
 ### `>_` $ whoami
 
 <pre>
-┌──(emanoel㉿matrix)-[~]
-└─$ cat profile.json
+┌──(emanoel㉿)-[~]
+└─$profile.json
 
 {
   "nome": "Emanoel de Jesus Barbosa Santos",
