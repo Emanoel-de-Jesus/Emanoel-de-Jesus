@@ -14,7 +14,7 @@
   "nome": "Emanoel de Jesus Barbosa Santos",
   "formacao": "Análise e Desenvolvimento de Sistemas (ADS) - Estácio",
   "atuacao": "Tecnologia Educacional & Suporte Técnico (Prefeitura de Bertioga)",
-  "foco_atual": ["Desenvolvimento Full Stack", "Lógica de Programação", "Automação & TI"],
+  "foco_atual": ["Desenvolvimento Frontend", "Lógica de Programação", "Automação & TI"],
   "certificacao": "Google Certified Educator Level 1"
 }
 </pre>
