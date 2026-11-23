@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Claude_AI-0D1117?style=for-the-badge&logo=anthropic&logoColor=00FF41" alt="Claude AI"/>
 </p>
 
-#### `[⚡] Carregando na Matrix (Estudando Atualmente)`
+#### `[⚡]  Estudando Atualmente`
 <p align="left">
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41" alt="Python"/>
