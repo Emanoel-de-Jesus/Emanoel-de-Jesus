@@ -7,7 +7,7 @@
 ### `>_` $ whoami
 
 <pre>
-┌──(emanoel㉿)-[~]
+┌──(emanoel)
 └─$profile.json
 
 {
@@ -15,7 +15,6 @@
   "formacao": "Análise e Desenvolvimento de Sistemas (ADS) - Estácio",
   "atuacao": "Tecnologia Educacional & Suporte Técnico (Prefeitura de Bertioga)",
   "foco_atual": ["Desenvolvimento Frontend", "Lógica de Programação", "Automação & TI"],
-  "certificacao": "Google Certified Educator Level 1"
 }
 </pre>
 
