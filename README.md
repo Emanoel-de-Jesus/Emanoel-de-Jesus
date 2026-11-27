@@ -44,12 +44,7 @@
 
 ---
 
-### `>_` Telemetria & Estatísticas do GitHub
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Emanoel-de-Jesus&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&bg_color=0D1117"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoel-de-Jesus&layout=compact&langs_count=6&theme=matrix&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&bg_color=0D1117"/>
-</div>
 
 <br/>
 
